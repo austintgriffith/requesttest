@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/austintgriffith/requesttest/issues"
   },
-  "homepage": "https://github.com/austintgriffith/requesttest#readme"
+  "homepage": "https://github.com/austintgriffith/requesttest#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
+    "web3": "^0.19.1"
+  }
 }
